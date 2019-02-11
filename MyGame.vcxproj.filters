@@ -24,6 +24,9 @@
     <ClCompile Include="..\Classes\levelScene_0.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="..\Classes\settingsScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -36,6 +39,9 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\levelScene_0.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\settingsScene.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
